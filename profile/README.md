@@ -15,7 +15,7 @@
 
 ### Demo Video (Fall 2023)
 
-[Youtube Demo Link](https://youtu.be/9GoiHex7bkk)
+[https://youtu.be/9GoiHex7bkk](https://youtu.be/9GoiHex7bkk)
 
 ### Tech Stack
 
