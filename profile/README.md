@@ -6,7 +6,7 @@ Application: [https://github.com/ILUVUS/iluvus-react-native](https://github.com/
 
 Tech stack:
 
-![image](./img/tech_stack.png)
+![image](https://github.com/ILUVUS/.github/blob/main/profile/img/tech_stack.png)
 
 
 [Youtube Demo Link](https://youtube.com)
