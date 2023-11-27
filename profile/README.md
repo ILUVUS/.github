@@ -6,6 +6,6 @@ Application: [https://github.com/ILUVUS/iluvus-react-native](https://github.com/
 
 Tech stack:
 
-![Tech stack](./img/tech_stack.png)
+![Tech stack](img/tech_stack.png)
 
 [Youtube Demo Link](https://youtube.com)
