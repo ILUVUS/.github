@@ -5,13 +5,13 @@
 - Springboot
 - MongoDB
 
-Running on: Google Clour Platform as a service
+  Running on: Google Clour Platform as a service
 
 ### Application: [https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
 
 - React Native
 
-Running on: any iOS or Android mobile devices
+  Running on: any iOS or Android mobile devices
 
 ### Tech Stack
 
