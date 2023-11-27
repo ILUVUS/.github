@@ -8,7 +8,7 @@
 
 [https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
 
-### Tech stack:
+### Tech Stack
 
 ![image](https://github.com/ILUVUS/.github/blob/main/profile/img/tech_stack.png)
 
