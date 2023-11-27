@@ -1,12 +1,17 @@
 # ILUVUS
 
-### Server
+### Server: [https://github.com/ILUVUS/iluvus-backend-api](https://github.com/ILUVUS/iluvus-backend-api)
 
-[https://github.com/ILUVUS/iluvus-backend-api](https://github.com/ILUVUS/iluvus-backend-api)
+- Springboot
+- MongoDB
 
-### Application
+Running on: Google Clour Platform as a service
 
-[https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
+### Application: [https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
+
+- React Native
+
+Running on: any iOS or Android mobile devices
 
 ### Tech Stack
 
