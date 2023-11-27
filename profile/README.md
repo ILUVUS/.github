@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-Server: [https://github.com/ILUVUS/iluvus-backend-api](https://github.com/ILUVUS/iluvus-backend-api)
+### Server
 
-Application: [https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
+[https://github.com/ILUVUS/iluvus-backend-api](https://github.com/ILUVUS/iluvus-backend-api)
 
-Tech stack:
+### Application
+
+[https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
+
+### Tech stack:
 
 ![image](https://github.com/ILUVUS/.github/blob/main/profile/img/tech_stack.png)
 
+### Youtube
 
 [Youtube Demo Link](https://youtube.com)
