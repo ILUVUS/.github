@@ -5,7 +5,7 @@
 - Springboot
 - MongoDB
 
-  Running on: Google Clour Platform as a service
+  Running on: Google Cloud Platform as a service
 
 ### Application: [https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
 
