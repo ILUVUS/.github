@@ -1,6 +1,6 @@
 # ILUVUS
 
-## Backend Server: [https://github.com/ILUVUS/iluvus-backend-api](https://github.com/ILUVUS/iluvus-backend-api)
+## [Backend Server](https://github.com/ILUVUS/iluvus-backend-api)
 
 ### Build with:
   - Springboot
@@ -13,7 +13,7 @@
   - Artifact Registry
   - Google Cloud Run
 
-## Frontend Application: [https://github.com/ILUVUS/iluvus-react-native](https://github.com/ILUVUS/iluvus-react-native)
+## [Frontend Application](https://github.com/ILUVUS/iluvus-react-native)
 
 - React Native
 - TailwindCSS
