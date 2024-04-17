@@ -26,7 +26,7 @@ Build for: any iOS or Android mobile devices
 - [Sprint 3](https://youtu.be/vRfSWI67zGM)
 - [Sprint 4](https://youtu.be/x9zPtdvjpJw)
 
-## Tech Stack
+## Tech Stack (Updated Dec 2023)
 
 ![image](https://github.com/ILUVUS/.github/blob/main/profile/img/tech_stack.png)
 
