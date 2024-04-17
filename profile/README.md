@@ -30,4 +30,9 @@ Build for: any iOS or Android mobile devices
 
 ![image](https://github.com/ILUVUS/.github/blob/main/profile/img/tech_stack.png)
 
+### Proposal Expo Collateral
 
+
+![Flyer - Inside](https://github.com/ILUVUS/.github/assets/21033636/6ab6201c-8f9b-4973-bbb9-23c60fbfca06)
+
+![Frame 9](https://github.com/ILUVUS/.github/assets/21033636/f9b17b26-c9cd-4165-ae2d-6cb4cdcc8895)
