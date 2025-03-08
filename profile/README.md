@@ -20,6 +20,10 @@
 
 Build for: any iOS or Android mobile devices
 
+## Demo Videos (Spring 2025)
+- [Sprint 1](https://www.youtube.com/shorts/5LSe3t9bsv8?feature=share)
+- [Sprint 2](https://www.youtube.com/shorts/qBiIW59CwYc)
+
 ## Demo Video (Spring 2024)
 
 - [Sprint 2](https://www.youtube.com/watch?v=i3RQoCzTwGY)
